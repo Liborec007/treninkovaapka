@@ -1,4 +1,5 @@
-jsimport './globals.css'
+js
+import './globals.css'
 
 export const metadata = {
   title: 'TréninkovéAppka — Tvůj AI fitness partner',
