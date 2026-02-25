@@ -5,8 +5,14 @@ export const metadata = {
   description: 'Chytrá fitness appka s AI coachingem. Sleduj progresi, překonávej rekordy.',
   icons: { icon: '/favicon.svg' },
   manifest: '/manifest.json',
+}
+
+export const viewport = {
   themeColor: '#00e5a0',
-  viewport: 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no',
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
 }
 
 export default function RootLayout({ children }) {
