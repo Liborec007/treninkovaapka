@@ -125,7 +125,7 @@ export default function Home() {
           <div className="note">Žádný spam. Jen oznámení o spuštění.</div>
         </div>
         <div className={`footer fade ${loaded ? 'show' : ''} d6`}>
-          © 2026 TréninkovéAppka · treninkovaapka.cz
+          © 2026 TréninkováAppka · treninkovaapka.cz
         </div>
       </div>
     </>
