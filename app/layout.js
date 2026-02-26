@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'TréninkovéAppka — Tvůj AI fitness partner',
+  title: 'TréninkováAppka — Tvůj AI fitness partner',
   description: 'Chytrá fitness appka s AI coachingem. Sleduj progresi, překonávej rekordy.',
   icons: { icon: '/favicon.svg' },
   manifest: '/manifest.json',
